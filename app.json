@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "loadshedding-application",
+    "slug": "loadshedding-application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
